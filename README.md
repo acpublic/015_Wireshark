@@ -1,3 +1,14 @@
+## インストール
+### Support raw 802.11 traffic (and monitor mode) for wireless adapters
+- 無線LANで使う802.11のパケットを解析できるようになる
+## 設定
+### 列
+- [設定]-[外観]-[列]
+## Https
+1. tlskeys.txtを作成
+2. 環境変数"SSLKEYLOGFILE"でtlskeys.txtを設定
+3. PC再起動
+
 ## フィルタリング
 - http
 - tls
