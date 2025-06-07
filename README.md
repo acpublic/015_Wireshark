@@ -8,6 +8,7 @@
 1. tlskeys.txtを作成
 2. 環境変数"SSLKEYLOGFILE"でtlskeys.txtを設定
 3. PC再起動
+4. [設定]-[Protocols]-[TLS]-[(Pre)-Master-Secret log filename]にtlskeys.txtを設定
 
 ## フィルタリング
 - http
